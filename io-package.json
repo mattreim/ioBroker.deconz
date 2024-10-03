@@ -103,9 +103,7 @@
       "zigbee"
     ],
     "icon": "deconz.png",
-    "adminUI": {
-      "config": "json"
-    },
+    "materialize": true,
     "extIcon": "https://raw.githubusercontent.com/Jey-Cee/ioBroker.deconz/master/admin/deconz.png",
     "type": "hardware"
   },
